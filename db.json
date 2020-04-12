@@ -1,8 +1,6 @@
 {
   "success": true,
   "message": "Voici les Texts",
-  "results": {
-    "nb": 3,
     "journee": [
       {
         "id": "1",
@@ -18,6 +16,4 @@
         "texte":"salut 3"
       }
       ]
-  }
 }
-        
