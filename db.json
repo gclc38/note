@@ -1,15 +1,23 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello 1"
-    },
-    {
-      "id":2,
-      "title":"salut 2"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "success": true,
+  "message": "Voici les Texts",
+  "results": {
+    "nb": 3,
+    "journee": [
+      {
+        "id": "1",
+        "date": "2020-01-01",
+        "texte":"salut 1"
+      },{
+                "id": "2",
+        "date": "2020-02-02",
+        "texte":"salut 2"
+      },{
+                "id": "3",
+        "date": "2020-03-03",
+        "texte":"salut 3"
+      }
+      ]
   }
 }
+        
