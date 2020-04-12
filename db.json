@@ -1,9 +1,9 @@
 {
   "success": true,
-  "message": "Voici les Texts",
-  "results": {
+  "message": "Voici les Notes",
+  "notesHeaderObject": {
     "nb": 2,
-    "journee": [
+    "notesArray": [
       {
         "id": "14012019",
         "date": "2019-01-14",
